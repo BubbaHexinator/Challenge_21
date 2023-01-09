@@ -4,7 +4,7 @@
 # *in this readme file you will a deployed smart contract including a Crowdsale Protocol* #
 
 
-![1](Execution_Results/result1.png)
+![1](Execution_Results/contract_deployed.png)
 ![2](Execution_Results/result2.png)
 ![3](Execution_Results/result3.png)
 ![4](Execution_Results/result4.png)
