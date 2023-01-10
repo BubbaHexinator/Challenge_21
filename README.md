@@ -6,6 +6,7 @@
 
 ![1](Execution_Results/contract_deployed.png)
 ![2](Execution_Results/initial_supply_purchased.png)
+![confirmation deployed](Execution_Results/confirmation_deployment.png)
 ![3](Execution_Results/crowdsale_deployment.png)
 ![4](Execution_Results/crowdsale_deployment(2).png)
 ![5](Execution_Results/crowdsale_deployment(3).png)
