@@ -6,7 +6,7 @@
 
 ![1](Execution_Results/contract_deployed.png)
 ![2](Execution_Results/initial_supply_purchased.png)
-![3](Execution_Results/result3.png)
-![4](Execution_Results/result4.png)
-![5](Execution_Results/result5.png)
-![6](Execution_Results/result6.png)
+![3](Execution_Results/crowdsale_deployment.png)
+![4](Execution_Results/crowdsale_deployment(2).png)
+![5](Execution_Results/crowdsale_deployment(3).png)
+![6](Execution_Results/importing_token.png)
